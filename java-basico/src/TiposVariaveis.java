@@ -14,5 +14,9 @@ public class TiposVariaveis {
         short numeroCurto = 1;
         int numeroInteiro = numeroCurto;
         short numeroCurto2 = (short) numeroInteiro;
+
+        // Constantes
+
+        final double VALOR_DE_PI = 3.14;
     }
 }
