@@ -1,3 +1,5 @@
+package Operadores;
+
 public class Operadores {
     public static void main(String[] args) {
         // Concatenação
@@ -20,10 +22,6 @@ public class Operadores {
 
         concatenacao = "1"+(1+1+1);
         System.out.println(concatenacao);
-
         
-        //Operador Ternario a==b ? "verdadeiro" : "falso"
-        // Operadores Relacionais == != > < >= <= | Comparar objetos com equals para conteudo e nao memoria
-        // Logicos && - ||
     }
 }
